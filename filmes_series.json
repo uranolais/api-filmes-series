@@ -1,0 +1,97 @@
+{
+    "filmes": [
+      {
+        "tipo": "filme",
+        "título": "O Poderoso Chefão",
+        "data_lançamento": "1972-03-24",
+        "diretor": "Francis Ford Coppola",
+        "elenco": "Marlon Brando, Al Pacino, James Caan",
+        "gênero": "Crime, Drama",
+        "classificação": 9.2
+      },
+      {
+        "tipo": "filme",
+        "título": "Um Sonho de Liberdade",
+        "data_lançamento": "1994-09-23",
+        "diretor": "Frank Darabont",
+        "elenco": "Tim Robbins, Morgan Freeman",
+        "gênero": "Drama",
+        "classificação": 9.3
+      },
+      {
+        "tipo": "filme",
+        "título": "Interestelar",
+        "data_lançamento": "2014-11-07",
+        "diretor": "Christopher Nolan",
+        "elenco": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "gênero": "Ficção Científica, Aventura",
+        "classificação": 8.6
+      },
+      {
+        "tipo": "filme",
+        "título": "Matrix",
+        "data_lançamento": "1999-03-31",
+        "diretor": "The Wachowskis",
+        "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "gênero": "Ação, Ficção Científica",
+        "classificação": 8.7
+      },
+      {
+        "tipo": "filme",
+        "título": "Cidade de Deus",
+        "data_lançamento": "2002-08-30",
+        "diretor": "Fernando Meirelles, Kátia Lund",
+        "elenco": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+        "gênero": "Crime, Drama",
+        "classificação": 8.6
+      }
+    ],
+    "series": [
+      {
+        "tipo": "serie",
+        "título": "Breaking Bad",
+        "data_lançamento": "2008-01-20",
+        "diretor": "Vince Gilligan",
+        "elenco": "Bryan Cranston, Aaron Paul, Anna Gunn",
+        "gênero": "Crime, Drama",
+        "classificação": 9.5
+      },
+      {
+        "tipo": "serie",
+        "título": "Friends",
+        "data_lançamento": "1994-09-22",
+        "diretor": "David Crane, Marta Kauffman",
+        "elenco": "Jennifer Aniston, Courteney Cox, Lisa Kudrow",
+        "gênero": "Comédia, Romance",
+        "classificação": 8.9
+      },
+      {
+        "tipo": "serie",
+        "título": "Game of Thrones",
+        "data_lançamento": "2011-04-17",
+        "diretor": "David Benioff, D. B. Weiss",
+        "elenco": "Emilia Clarke, Kit Harington, Peter Dinklage",
+        "gênero": "Fantasia, Drama",
+        "classificação": 9.3
+      },
+      {
+        "tipo": "serie",
+        "título": "Stranger Things",
+        "data_lançamento": "2016-07-15",
+        "diretor": "Os Irmãos Duffer",
+        "elenco": "Winona Ryder, David Harbour, Finn Wolfhard",
+        "gênero": "Ficção Científica, Terror",
+        "classificação": 8.7
+      },
+      {
+        "tipo": "serie",
+        "título": "Breaking Bad",
+        "data_lançamento": "2008-01-20",
+        "diretor": "Vince Gilligan",
+        "elenco": "Bryan Cranston, Aaron Paul, Anna Gunn",
+        "gênero": "Crime, Drama",
+        "classificação": 9.5
+      }
+    ]
+  }
+  
